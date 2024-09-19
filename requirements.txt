@@ -1,0 +1,6 @@
+# python3.12.3
+langchain==0.1.20
+langgraph==0.0.49
+jupyterlab==4.1.6
+ipykernel==6.29.4
+ollama==0.1.8
